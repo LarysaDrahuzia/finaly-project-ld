@@ -13,15 +13,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LarysaDrahuzia/nodejs-hw-mongodb.git"
+    "url": "git+https://github.com/LarysaDrahuzia/finaly-project-ld.git"
   },
   "keywords": [],
   "author": "Larysa Drahuzia <draglara@ukr.net>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LarysaDrahuzia/nodejs-hw-mongodb/issues"
+    "url": "https://github.com/LarysaDrahuzia/finaly-project-ld/issues"
   },
-  "homepage": "https://github.com/LarysaDrahuzia/nodejs-hw-mongodb#readme",
+  "homepage": "https://github.com/LarysaDrahuzia/finaly-project-ld#readme",
   "dependencies": {
     "bcrypt": "^6.0.0",
     "cloudinary": "^2.6.1",
